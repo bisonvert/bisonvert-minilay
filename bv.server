@@ -1,0 +1,7 @@
+[minibuild]
+# get subversion into the path
+dependencies=python-2.6 subversion-1.6 postgresql-8.4 gdal-1.7 libmemcache-1.4
+install_method=buildout
+src_uri=https://subversion.makina-corpus.net/bisonvert/trunk/minitage/buildouts/django/bisonvert
+src_type=hg
+category=django
