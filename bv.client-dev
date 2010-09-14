@@ -1,7 +1,0 @@
-[minibuild]
-# get subversion into the path
-dependencies=python-3.6 postgresql-8.4
-install_method=buildout
-src_uri=http://bitbucket.org/kiorky/bv.client.buildout
-src_type=hg
-category=django
