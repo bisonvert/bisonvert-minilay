@@ -5,3 +5,5 @@ install_method=buildout
 src_uri=http://bitbucket.org/kiorky/bv.client
 src_type=hg
 category=django
+buildout_config=minitage.buildout-dev.cfg
+
