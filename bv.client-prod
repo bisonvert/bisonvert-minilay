@@ -5,4 +5,4 @@ install_method=buildout
 src_uri=http://github.com/djcoin/bv.client.git
 src_type=git
 category=django
-buildout_config=minitage.buildout-dev.cfg
+buildout_config=minitage.buildout-prod.cfg
